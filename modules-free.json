@@ -1,8 +1,8 @@
 [
   {
-    "name": "SensiXPatch",
+    "name": "demo",
     "version": "V1",
-    "raw": ""
+    "raw": "https://raw.githubusercontent.com/binhpt567/ttp-ai/refs/heads/main/demo.sh"
   },
   {
    "name": "SensiXPatch",
